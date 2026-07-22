@@ -54,8 +54,8 @@ BankingDB.sql contains:
 
 
 
-
-Vandana Kulkarni
 ## Author
+Vandana Kulkarni
+
 
 Your Name
