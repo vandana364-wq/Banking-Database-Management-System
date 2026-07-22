@@ -50,12 +50,12 @@ BankingDB.sql contains:
 - INSERT INTO
 - SELECT Queries
 
-## ER Diagram
+# Banking Database Management System
 
+## EER Diagram
+
+![EER Diagram](ER_Diagram.png)
 
 
 ## Author
 Vandana Kulkarni
-
-
-Your Name
